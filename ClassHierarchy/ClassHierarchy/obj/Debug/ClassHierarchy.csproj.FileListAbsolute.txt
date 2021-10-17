@@ -1,0 +1,14 @@
+D:\Projects\Колледж\3 курс\ClassHierarchy\ClassHierarchy\obj\Debug\ClassHierarchy.csproj.AssemblyReference.cache
+D:\Projects\Колледж\3 курс\ClassHierarchy\ClassHierarchy\obj\Debug\ClassHierarchy.csproj.CoreCompileInputs.cache
+D:\Projects\Колледж\3 курс\ClassHierarchy\ClassHierarchy\bin\Debug\ClassHierarchy.exe.config
+D:\Projects\Колледж\3 курс\ClassHierarchy\ClassHierarchy\bin\Debug\ClassHierarchy.exe
+D:\Projects\Колледж\3 курс\ClassHierarchy\ClassHierarchy\bin\Debug\ClassHierarchy.pdb
+D:\Projects\Колледж\3 курс\ClassHierarchy\ClassHierarchy\obj\Debug\ClassHierarchy.exe
+D:\Projects\Колледж\3 курс\ClassHierarchy\ClassHierarchy\obj\Debug\ClassHierarchy.pdb
+F:\WorldSkills\Юниоры\ClassHierarchyРусик3\ClassHierarchy\ClassHierarchy\bin\Debug\ClassHierarchy.exe.config
+F:\WorldSkills\Юниоры\ClassHierarchyРусик3\ClassHierarchy\ClassHierarchy\bin\Debug\ClassHierarchy.exe
+F:\WorldSkills\Юниоры\ClassHierarchyРусик3\ClassHierarchy\ClassHierarchy\bin\Debug\ClassHierarchy.pdb
+F:\WorldSkills\Юниоры\ClassHierarchyРусик3\ClassHierarchy\ClassHierarchy\obj\Debug\ClassHierarchy.csprojAssemblyReference.cache
+F:\WorldSkills\Юниоры\ClassHierarchyРусик3\ClassHierarchy\ClassHierarchy\obj\Debug\ClassHierarchy.csproj.CoreCompileInputs.cache
+F:\WorldSkills\Юниоры\ClassHierarchyРусик3\ClassHierarchy\ClassHierarchy\obj\Debug\ClassHierarchy.exe
+F:\WorldSkills\Юниоры\ClassHierarchyРусик3\ClassHierarchy\ClassHierarchy\obj\Debug\ClassHierarchy.pdb
